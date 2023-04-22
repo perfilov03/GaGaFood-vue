@@ -1,0 +1,59 @@
+{
+  "comments": [
+    {
+      "name": "Кирилл",
+      "content": "Заказываю здесь уже не в первый раз, радует бесплатная и быстрая доставка, не подводила ни разу!"
+    },
+    {
+      "name": "Карина",
+      "content": "Выбор ресторанов пока небольшой, но даже сейчас можно посмотреть на их качество работы! Все курьеры оснащены современным оборудованием, не успеваем ждать, как курьер уже звонит нам в дверь!"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 0,
+      "name": "Rimska Polytecco",
+      "banner": "pizza.webp",
+      "cost": 1,
+      "name_kitchen": "Итальянская кухня",
+      "description": "Незабываемые римские пиццы по доступной цене!",
+      "free_delivery": true
+    },
+    {
+      "id": 1,
+      "name": "Gaga Burgers",
+      "banner": "gagaburger.jpg",
+      "cost": 3,
+      "name_kitchen": "Бургеры",
+      "description": "Жарим котлеты на мясе, одобренным самой Леди Гагой",
+      "free_delivery": true
+    },
+    {
+      "id": 2,
+      "name": "StarHit Cafe",
+      "banner": "starhit.png",
+      "cost": 1,
+      "name_kitchen": "Кофе, чай",
+      "description": "Всё кофе по 59 рублей!",
+      "free_delivery": false
+    },
+    {
+      "id": 3,
+      "name": "Молочка - и точка",
+      "banner": "molochka.jpg",
+      "cost": 3,
+      "name_kitchen": "Молекулярная кухня",
+      "description": "Необычайные блюда из молока от роботизированных шеф-поваров молочного автомата",
+      "free_delivery": true
+    },
+    {
+      "id": 4,
+      "name": "Starb$$$cks",
+      "banner": "bucks.jpg",
+      "cost": 3,
+      "name_kitchen": "Кофе, чай, десерты",
+      "description": "Мировая сеть кофеен",
+      "free_delivery": true
+    }
+  ]
+}
